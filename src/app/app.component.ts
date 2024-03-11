@@ -9,7 +9,7 @@ export class AppComponent {}
 
 // 1. Create a 'timer' component that has a seconds display.  The seconds display should start incrementing as soon as the component is initialized.
 
-// 2. Create a 'form' component with four visible inputs: 'a', 'b', 'c', and 'd'.  Inputs a and b are supposed to be numbers while c and d should be strings that start with 'prefix'.  In addition, add a fifth hidden field to the form that contains a timestamp for when the form component was created.
+// 2. Create a 'form' component with two visible inputs: 'a' and 'b'.  Input a is supposed to be a number while b should be a string that starts with 'prefix'.  In addition, we want a hidden field in the form that contains a timestamp for when the form component was created.
 
 // 3. Management wants to use our timer component as a training tool to help workers fill out forms faster.  Please add the timer component's seconds as part of the form.  
 
